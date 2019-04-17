@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/CPlusPlus_SmartPointer/v16/Browse.VC.db
+/.vs/CPlusPlus_SmartPointer/v16/Browse.VC.opendb
+/.vs/CPlusPlus_SmartPointer/v16/.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
